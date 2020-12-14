@@ -1,0 +1,1 @@
+document.write('<img src="http://2001.shop.admin.com/upload/BYMowRrP3z5rC2x7VbLYuDY5wj4GVw0eWSgolJeD.jpeg" width="140" height="140">')
